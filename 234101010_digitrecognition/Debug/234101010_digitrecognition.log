@@ -1,0 +1,28 @@
+﻿Build started 30-10-2023 09:41:23.
+     1>Project "C:\Users\Admin\Documents\Visual Studio 2010\Projects\234101010_digitrecognition\234101010_digitrecognition\234101010_digitrecognition\234101010_digitrecognition.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\234101010_digitrecognition.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         d:\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\234101010_digitrecognition.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 234101010_digitrecognition.cpp
+         234101010_digitrecognition.cpp
+     1>c:\users\admin\documents\visual studio 2010\projects\234101010_digitrecognition\234101010_digitrecognition\234101010_digitrecognition\normalize.h(4): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\234101010_digitrecognition\234101010_digitrecognition\234101010_digitrecognition\normalize.h(16): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\234101010_digitrecognition\234101010_digitrecognition\234101010_digitrecognition\normalize.h(24): error C2065: 'T' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\234101010_digitrecognition\234101010_digitrecognition\234101010_digitrecognition\normalize.h(24): error C2065: 'FS' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\234101010_digitrecognition\234101010_digitrecognition\234101010_digitrecognition\normalize.h(26): error C2065: 'T' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\234101010_digitrecognition\234101010_digitrecognition\234101010_digitrecognition\normalize.h(26): error C2065: 'T_' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\234101010_digitrecognition\234101010_digitrecognition\234101010_digitrecognition\normalize.h(27): error C2065: 'T' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\234101010_digitrecognition\234101010_digitrecognition\234101010_digitrecognition\normalize.h(27): error C2065: 'T_' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\234101010_digitrecognition\234101010_digitrecognition\234101010_digitrecognition\normalize.h(42): error C2065: 'CLIP' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\234101010_digitrecognition\234101010_digitrecognition\234101010_digitrecognition\normalize.h(44): error C2065: 'samples' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\234101010_digitrecognition\234101010_digitrecognition\234101010_digitrecognition\normalize.h(54): error C2065: 'energy' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\234101010_digitrecognition\234101010_digitrecognition\234101010_digitrecognition\normalize.h(56): error C2065: 'FS' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\234101010_digitrecognition\234101010_digitrecognition\234101010_digitrecognition\normalize.h(56): fatal error C1903: unable to recover from previous error(s); stopping compilation
+     1>Done Building Project "C:\Users\Admin\Documents\Visual Studio 2010\Projects\234101010_digitrecognition\234101010_digitrecognition\234101010_digitrecognition\234101010_digitrecognition.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.26
